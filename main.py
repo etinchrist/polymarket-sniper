@@ -147,3 +147,5 @@ def run():
         time.sleep(SCAN_INTERVAL)
 
 if __name__ == "__main__":
+    run()
+
